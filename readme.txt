@@ -1,2 +1,1 @@
-Author's api key
-api_key=mNf8SgViuZwsI0zKUrzmZDzSSTCF3gpQ
+В попытке освоить Vue3 наткнулся на эту статью - https://www.sitepoint.com/fetching-data-third-party-api-vue-axios/
